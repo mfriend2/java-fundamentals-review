@@ -7,7 +7,7 @@
 ## Problems
 
 
-1. In the **AssessmentReview** class inside the `java` directory.
+1. In the **main.AssessmentReview** class inside the `java` directory.
 
     - Write a public static method named `cubed` that accepts an integer as
       an argument and returns that integer to the third power.
@@ -83,7 +83,7 @@
  
 
    
-7. On your **AssessmentReview** class create a static method named `uppercaseCatColor`.
+7. On your **main.AssessmentReview** class create a static method named `uppercaseCatColor`.
 
    This method should:
 
